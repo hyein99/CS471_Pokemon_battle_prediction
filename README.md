@@ -19,7 +19,7 @@ The dataset used in this project is the Pokemon - Weedle's Cave dataset, which c
 ## Installation
 To install and run the project locally, follow these steps:
 ```
-git clone https://github.com/yourusername/pokemon-battle-prediction.git
+git clone https://github.com/hyein99/CS471_Pokemon_battle_prediction.git
 
 cd pokemon-battle-prediction
 pip install -r requirements.txt
