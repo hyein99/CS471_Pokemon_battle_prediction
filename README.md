@@ -29,4 +29,4 @@ pip install -r requirements.txt
 ### Graph model accuracy
 |GCN|GraphSage(mean)|GraphSage(maxpool)|GAT|
 |---|-------------|------------------|----|
-|0.9302|0.9313|0.9247|0.936|
+|0.9306|0.9363|0.9274|0.9461|
