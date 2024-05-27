@@ -29,6 +29,8 @@ If you use Google Colab, just execute `main.ipynb`. It contains codes for datase
 
 ## Results
 ### Graph model accuracy
+* Accuracy (average value of 5 experiments with different seeds)
+
 |GCN|GraphSage(mean)|GraphSage(maxpool)|GAT|
 |---|-------------|------------------|----|
-|0.9306|0.9363|0.9274|0.9461|
+|0.9320|0.9320|0.9271|0.9442|
