@@ -25,7 +25,7 @@ cd CS471_Pokemon_battle_prediction
 pip install -r requirements.txt
 ```
 
-If you use Google Colab, just execute main.ipynb.
+If you use Google Colab, just execute `main.ipynb`. It contains codes for dataset, installation and model.
 
 ## Results
 ### Graph model accuracy
