@@ -21,15 +21,12 @@ To install and run the project locally, follow these steps:
 ```
 git clone https://github.com/hyein99/CS471_Pokemon_battle_prediction.git
 
-cd pokemon-battle-prediction
+cd CS471_Pokemon_battle_prediction
 pip install -r requirements.txt
 ```
 
-## Usage
-After installing the necessary dependencies, you can run the prediction model with the following command:
-```
-// TBD
-```
-
 ## Results
-TBD
+### Graph model accuracy
+|GCN|GraphSage(mean)|GraphSage(maxpool)|GAT|
+|---|-------------|------------------|----|
+|0.9302|0.9313|0.9247|0.936|
