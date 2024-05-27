@@ -25,6 +25,8 @@ cd CS471_Pokemon_battle_prediction
 pip install -r requirements.txt
 ```
 
+If you use Google Colab, just execute main.ipynb.
+
 ## Results
 ### Graph model accuracy
 |GCN|GraphSage(mean)|GraphSage(maxpool)|GAT|
